@@ -1,0 +1,10 @@
+{
+  "name": "agent-harness-stuff",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Estensioni personali per agenti di coding",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./pi/extensions"]
+  }
+}
